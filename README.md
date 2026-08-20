@@ -47,7 +47,7 @@
 | Project | Description | Tech |
 |---|---|---|
 | [Data Drishti](https://github.com/pawani28/DataDrishti.git) | In-progress project | — |
-| [SafeWord Emergency Alert System](https://github.com/pawani28) | Academic project | — |
+| [SafeWord Emergency Alert System](https://github.com/pawani28) | Individual project | — |
 
 <br>
 
