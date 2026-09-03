@@ -44,11 +44,11 @@
 
 ## 📌 Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| [Data Drishti](https://github.com/pawani28/DataDrishti.git) | In-progress project | — |
-| [GuarDia](https://github.com/pawani28/GuarDia) | Individual project | — |
-| [KanoonMitra](https://github.com/pawani28/KanoonMitra.git) | Individual project | _ |
+| Project | Description | 
+|---|---|
+| [Data Drishti](https://github.com/pawani28/DataDrishti.git) | In-progress project |
+| [GuarDia](https://github.com/pawani28/GuarDia) | Individual project | 
+| [KanoonMitra](https://github.com/pawani28/KanoonMitra.git) | Individual project | 
 
 <br>
 
