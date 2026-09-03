@@ -27,7 +27,7 @@
 ## 🚀 About Me
 
 - 🎓 B.Tech in Computer Science & Technology (Data Science) — *Pranveer Singh Institute of Technology (AKTU)*
-- 💻 Currently focused on **Frontend Development**, growing into **Java Full Stack**
+- 💻 Currently focused on **Frontend Development** and **Software Development**, growing into **Java Full Stack** 
 - 🌱 Sharpening skills in **Java, JavaScript, and SQL**
 - 📍 Based in Lucknow, Uttar Pradesh, India
 - 💬 Ask me about: *HTML, CSS, JavaScript, Git & GitHub*
@@ -48,6 +48,7 @@
 |---|---|---|
 | [Data Drishti](https://github.com/pawani28/DataDrishti.git) | In-progress project | — |
 | [SafeWord Emergency Alert System](https://github.com/pawani28) | Individual project | — |
+| [KanoonMitra](https://github.com/pawani28/KanoonMitra.git) | Individual project | _ |
 
 <br>
 
