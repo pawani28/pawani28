@@ -46,7 +46,7 @@
 
 | Project | Description | 
 |---|---|
-| [Data Drishti](https://github.com/pawani28/DataDrishti.git) | In-progress project |
+| [Data Drishti](https://github.com/pawani28/DataDrishti.git) | Group project |
 | [GuarDia](https://github.com/pawani28/GuarDia) | Individual project | 
 | [KanoonMitra](https://github.com/pawani28/KanoonMitra.git) | Individual project | 
 
